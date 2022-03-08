@@ -3,3 +3,5 @@ print(a)
 print(type(a))
 a="jajja"
 print(a)
+print(a)
+
